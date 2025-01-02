@@ -9,13 +9,6 @@
 
   <h1>🎄 AdventJS Solutions</h1>
 
-  ![Version](https://img.shields.io/github/package-json/v/marcode24/adventjs-solutions?style=popout&logo=npm)
-  ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/adventjs-solutions/adventjs.yml?branch=main&style=popout&logo=testcafe&label=tests)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/adventjs-solutions?style=popout&logo=github&label=repo%20size)
-  ![GitHub](https://img.shields.io/github/license/marcode24/adventjs-solutions?style=popout&logo=github&label=license)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/adventjs-solutions?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
-  ![Github repo views](https://img.shields.io/github/search/marcode24/adventjs-solutions/adventjs-solutions?style=popout&logo=github&label=repo%20views)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/marcode24/adventjs-solutions?style=popout&logo=git&label=last%20commit)
 
 </div>
 
