@@ -1,0 +1,24 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "AdventJS Challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aam9063/AdventJS-.git"
+  },
+  "keywords": [
+    "midudev",
+    "adventjs",
+    "javascript"
+  ],
+  "author": "Albert Alarcon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aam9063/AdventJS-/issues"
+  },
+  "homepage": "https://github.com/aam9063/AdventJS-#readme"
+}
