@@ -20,7 +20,7 @@ This repository contains my solutions to the [AdventJS](https://adventjs.dev/) c
 
 ```bash
 # Clone the repository
-git clone https://github.com/marcode24/adventjs-solutions
+git clone https://github.com/aam9063/AdventJS-.git
 
 # Go into the repository
 cd adventjs-solutions
